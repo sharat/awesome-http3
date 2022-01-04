@@ -1,4 +1,4 @@
-FROM ubuntu:18.04 AS builder
+FROM ubuntu:20.04 AS builder
 
 LABEL maintainer="Sarath C"
 # Fork of https://github.com/yurymuski/curl-http3
