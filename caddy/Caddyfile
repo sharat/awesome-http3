@@ -1,0 +1,7 @@
+
+experimental_http3
+
+
+file_server / {
+    root * /var/www/html/
+}
